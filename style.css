@@ -1,0 +1,18 @@
+html {
+    text-align: center;
+    background-color: rgb(50, 50, 50);
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: whitesmoke;
+}
+
+h1 {
+    margin-top: 10%;
+    color: lightgray;
+}
+
+#datetime {
+    color: lightgray;
+}
