@@ -8,4 +8,4 @@ function updateDateTime() {
     document.querySelector('#datetime').textContent = "It's "+ nd.toLocaleString() + " in Kemerovo";
 }
 
-setInterval(updateDateTime, 500);
+setInterval(updateDateTime, 1);
